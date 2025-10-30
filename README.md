@@ -34,7 +34,7 @@ This Flutter app:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/flutter_dio_json_app.git
+git clone https://github.com/rojinvgeo/flutter_dio_json_app.git
 ```
 ### 2️⃣ Navigate to the Project Folder
 ```bash
