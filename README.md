@@ -51,6 +51,7 @@ flutter pub run build_runner build
 5️⃣ Run the App
 ```bash
 flutter run
+```
 
 
 
